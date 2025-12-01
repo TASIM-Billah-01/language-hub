@@ -25,7 +25,7 @@ const Profile = () => {
                 <img 
                     src={myUser?.photoURL}
                     alt="User"
-                    className="w-32 h-32 rounded-full mx-auto overflow-hidden hover:shadow-xl duration-200 transition-all hover:scale-105 shadow-lg object-cover"
+                    className="sm:w-32 sm:h-32 w-20 h-20 rounded-full mx-auto overflow-hidden hover:shadow-xl duration-200 transition-all hover:scale-105 shadow-lg object-cover"
                 />
 
                 <h2 className="text-2xl font-bold text-gray-700 mt-4">
