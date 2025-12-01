@@ -1,0 +1,54 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Lesson 01",
+      "image": "https://i.ibb.co.com/9mhzFwSj/Lesson01.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Lesson 02",
+      "image": "https://i.ibb.co.com/h578K3D/Lesson02.png"
+    },
+    {
+      "id": 3,
+      "title": "Lesson 03",
+      "image": "https://i.ibb.co.com/bgzwxwSR/Lesson03.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Lesson 04",
+      "image": "https://i.ibb.co.com/JWT2QWXp/Lesson04.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Lesson 05",
+      "image": "https://i.ibb.co.com/ynZh9D1R/Lesson05.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Lesson 06",
+      "image": "https://i.ibb.co.com/rfR8ccCW/Lesson06-3.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Lesson 07",
+      "image": "https://i.ibb.co.com/V09YXnwK/Lesson07.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Lesson 08",
+      "image": "https://i.ibb.co.com/twNGPSh2/Lesson08-2.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Lesson 09",
+      "image": "https://i.ibb.co.com/gLnxXJ7j/Lesson09.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lesson 10",
+      "image": "https://i.ibb.co.com/v48Mg2bY/Lesson10.jpg"
+    }
+  ]
+}
